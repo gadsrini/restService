@@ -1,2 +1,2 @@
 # restService
-Testing service with Jenkins....
+Testing Jenkins integration with github..
