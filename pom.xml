@@ -8,6 +8,14 @@
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>restService</name>
+    
+    <distributionManagement>
+     <repository>
+      <id>maven-releases</id>
+      <name>MyCo Internal Repository</name>
+      <url>http://172.16.200.213:8081/nexus/repository/maven-releases/</url>
+     </repository>
+   </distributionManagement>
    
     <build>
         <finalName>restService</finalName>
