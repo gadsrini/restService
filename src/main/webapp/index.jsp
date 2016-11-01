@@ -1,10 +1,8 @@
 <html>
 <body>
-    <h2>Jersey RESTful Web Application!</h2>
-    <p><a href="webapi/myresource">Jersey resource</a>
-        <p><a href="webapi/messages">Message resource</a>
+    <h4>Jenkins continous integration Demo</h4>    
+    <h1> !!!Hurry!!! Walaaaa </h1>
+    <p>Visit <a href="https://www.prokarma.com/">Prokarma website</a>
     
-    <p>Visit <a href="http://jersey.java.net">Project Jersey website</a>
-    for more information on Jersey!
 </body>
 </html>
