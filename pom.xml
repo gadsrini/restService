@@ -60,4 +60,16 @@
         <jersey.version>2.22.2</jersey.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+	<distributionManagement>
+       <repository>
+          <id>nexus</id>
+          <name>Release</name>
+          <url>http://192.168.251.41:8081/repository/maven-releases</url>
+       </repository>
+       <snapshotRepository>
+          <id>nexus</id>
+          <name>Snapshot</name>
+          <url>http://192.168.251.41:8081/repository/maven-snapshots</url>
+       </snapshotRepository>
+    </distributionManagement>
 </project>
